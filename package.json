@@ -21,7 +21,9 @@
     "lucide-react": "^0.539.0",
     "next": "latest",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "socket.io": "4.8.1",
+    "socket.io-client": "4.8.1"
   },
   "devDependencies": {
     "@tsconfig/next": "^2.0.0",
